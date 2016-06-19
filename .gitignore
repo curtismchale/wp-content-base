@@ -29,3 +29,4 @@ podcast.xml
 *.sublime-project
 *.sublime-workspace
 .sass-cache/*
+db.php
